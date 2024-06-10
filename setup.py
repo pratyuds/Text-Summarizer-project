@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Text-Summerizer-Project"
 AUTHOR_USER_NAME = "pratyuds"
-SRC_REPO = "TextSummerizer"
+SRC_REPO = "textSummerizer"
 
 
 setuptools.setup(
